@@ -1,0 +1,19 @@
+body{
+    background: rgba(red, green, blue, alpha);
+}
+header {
+    border: 2px solid red;
+    height:300px;
+    margin: 10px 5px 0 5px;
+    border-radius: 10px;
+    background-image: url(images/homepage-desktop.webp);
+    background-repeat: no-repeat, repeat;
+    background-size: 1600px 600px;
+    background-position: center;
+}
+#slogan{
+    font-size: 40px;
+    font-weight:bolder;
+    text-align: center;
+    margin-right:40px;
+}
